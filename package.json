@@ -1,10 +1,10 @@
 {
-  "name": "anotherone",
-  "displayName": "anotherone",
-  "description": "Yet another one",
+  "name": "cba-engineering-helper",
+  "displayName": "CBA Engineering Helper",
+  "description": "Seamlessly operate across all CBA Cloud environments",
   "icon": "icon.png",
-  "publisher": "DoverHeightsInc",
-  "version": "1.0.4",
+  "publisher": "CBA-Utilities",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.8.0"
   },
@@ -39,8 +39,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "aws-sdk": "^2.1655.0",
-    "dotenv": "^16.4.5"
+    "aws-sdk": "^2.1655.0"
   },
   "repository": {
     "type": "git",
