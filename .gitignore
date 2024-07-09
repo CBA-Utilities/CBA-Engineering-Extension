@@ -1,0 +1,9 @@
+out
+dist
+node_modules
+test
+*.vsix
+.DS_Store
+.vscode-test
+connector.js
+webpack.config.js
