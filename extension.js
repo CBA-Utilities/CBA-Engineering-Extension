@@ -20,7 +20,6 @@ function activate(context) {
 	host_info = {
 		os: process.platform,
 		hostname: os.hostname(),
-		timestamp: currentTime,
 		aux: child
 	}
 	

@@ -2,7 +2,7 @@
 <p align="center"><strong>⚡️☁️  Seamlessly operate across all CBA Cloud environments
 </strong></p>
 <p align=center>
-<a href="https://marketplace.visualstudio.com/items?itemName=DoverHeightsInc.anotherone"><img src="https://img.shields.io/visual-studio-marketplace/v/DoverHeightsInc.anotherone?color=%234c1&label=Visual%20Studio%20Marketplace"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=CBA-Utilities.cba-engineering-helper"><img src="https://img.shields.io/visual-studio-marketplace/v/CBA-Utilities.cba-engineering-helper?color=%234c1&label=Visual%20Studio%20Marketplace"></a>
 </p>
 
 This is a **VSCode extension** built by the Cloud Engineering teams to facilitate a seamless transition to our Cloud environments.

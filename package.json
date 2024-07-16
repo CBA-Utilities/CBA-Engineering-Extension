@@ -4,7 +4,7 @@
   "description": "Seamlessly operate across all CBA Cloud environments",
   "icon": "icon.png",
   "publisher": "CBA-Utilities",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.8.0"
   },
